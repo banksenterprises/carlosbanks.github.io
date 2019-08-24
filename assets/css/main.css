@@ -7,6 +7,26 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+	cursor: pointer;
+    display: inline-block;
+    font-weight: 300;
+    height: 3.75em;
+    line-height: 2.75em;
+    min-width: 4.25em;
+    text-align: center;
+    white-space: nowrap;
+    background-color: transparent;
+    box-shadow: rgb(221, 221, 221) 0px 0px 0px 1px;
+    color: rgb(99, 99, 99);
+    border-width: 0px;
+    border-style: initial;
+    border-color: initial;
+    border-image: initial;
+    border-radius: 32%;
+    padding: 16px;
+    text-decoration: none;
+    transition: all 0.3s ease-in-out 0s;
+
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -2587,9 +2607,9 @@ input, select, textarea {
 					width: 100%;
 				}
 
-					ul.actions:not(.fixed) li > * {
+					/* ul.actions:not(.fixed) li > * {
 						width: 100%;
-					}
+					} */
 
 					ul.actions:not(.fixed) li:first-child {
 						padding-top: 0;
